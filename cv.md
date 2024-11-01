@@ -11,6 +11,16 @@ Herasimovich Arseni is a student of BSUIR, Faculty of Computer Design, specializ
  - HTML
  - CSS
  - JavaScript
+## Code Example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(2, 3);
+alert( result );
+```
+
 ## Education
 
  - BSUIR
