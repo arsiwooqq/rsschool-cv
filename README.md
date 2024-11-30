@@ -1,1 +1,1 @@
-# rsschool-cv
+https://arsiwooqq.github.io/rsschool-cv/
